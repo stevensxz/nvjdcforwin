@@ -8,7 +8,7 @@
 
 #下载WEB压缩包  
 
-下载地址：https://www.lanzouw.com/i2cyvwchj1g
+下载地址：https://www.lanzouw.com/iPZFDwczhef
 
 在仓库里解压压缩修改配置文件夹中的Config.json
 
