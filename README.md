@@ -22,4 +22,4 @@
 
 
 # 最后启动 
- 管理员打开CMD CD到web文件夹中  输入 dotnet NETJDC.dll
+ 管理员打开CMD CD到web文件夹中  输入 dotnet NETJDC.dll --urls=http://*:5000
