@@ -6,9 +6,11 @@
 安装地址:https://dotnet.microsoft.com/download/dotnet/5.0
 下载之后无脑下一步
 
-# 下载WEB压缩包  
+#下载WEB压缩包  
 
-在仓库里解压即可  修改Config 文件夹中Config.json
+下载地址：https://www.lanzouw.com/i2cyvwchj1g
+
+在仓库里解压压缩修改配置文件夹中的Config.json
 
 # 下载浏览器
 
