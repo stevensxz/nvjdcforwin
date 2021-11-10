@@ -16,7 +16,7 @@
 
 在解压的WEB文件夹中根目录创建一个.local-chromium\Win64-884014\chrome-win 这些文件夹
 
-去下载浏览器地址:https://mirrors.huaweicloud.com/chromium-browser-snapshots/
+下载浏览器地址:https://mirrors.huaweicloud.com/chromium-browser-snapshots/
 
 根据自己情况选择 884014 版本的浏览器 有WIN win64的 下载完成解压到.local-chromium\Win64-884014\里
 
