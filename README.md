@@ -14,7 +14,7 @@
 
 # 下载浏览器
 
-在解压的WEB文件夹中与BIN目录同级创建一个.local-chromium\Win64-884014\chrome-win 这些文件夹
+在解压的WEB文件夹中根目录创建一个.local-chromium\Win64-884014\chrome-win 这些文件夹
 
 去下载浏览器地址:https://mirrors.huaweicloud.com/chromium-browser-snapshots/
 
