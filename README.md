@@ -8,9 +8,9 @@
 
 #下载WEB压缩包  
 
-下载地址：https://www.lanzouw.com/iPZFDwczhef
+下载地址：https://www.lanzouw.com/iV43mwfv15e
 
-在仓库里解压压缩修改配置文件夹中的Config.json
+在解压修改配置Config文件夹中的Config.json
 
 # 下载浏览器
 
