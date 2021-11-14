@@ -8,7 +8,7 @@
 
 #下载WEB压缩包  
 
-下载地址：https://www.lanzouw.com/iV43mwfv15e
+下载地址：https://github.com/NolanHzy/nvjdcdocker
 
 在解压修改配置Config文件夹中的Config.json
 
